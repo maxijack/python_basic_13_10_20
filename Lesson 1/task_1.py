@@ -18,7 +18,7 @@ print(f"var_tuple = {var_tuple} type = {type(var_tuple)}")
 print(f"var_dict = {var_dict} type = {type(var_dict)}")
 
 # Test user input
-name = str(input("Enter your name:"))
+name = input("Enter your name:")
 age = int(input("How old are you?:"))
-country = str(input("Where are your from?"))
+country = input("Where are your from?")
 print(f"Your name's {name} and you're {age} years old. Your country is {country}")
